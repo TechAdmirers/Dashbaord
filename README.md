@@ -48,10 +48,14 @@ The **TechAdmirers Dashboard** simulates AI-native learner experiences using int
 
 ## 📦 Project Setup Instructions  
 
-1. **Clone the repository**
+
    ```bash
    git clone https://github.com/techadmirers/dashboard.git
    cd techadmirers-dashboard
    npm install
    npm run dev
    npm run build
+```
+---
+
+contact us : info@techadmirers.com
