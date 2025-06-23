@@ -1,6 +1,10 @@
-# TechAdmirers AI Dashboard
+# 📊 TechAdmirers Dashboard — AI-Powered LMS Platform
 
-A dynamic, AI-powered Learning Management System (LMS) built with React, TypeScript, and modern web technologies.
+A futuristic, AI-enhanced Learning Management System (LMS) designed to deliver intelligent course recommendations, AI-powered career roadmaps, skill gap visualizations, and interactive learning tools — all within a sleek, mobile-first dashboard.
+
+## 🚀 Project Overview
+
+The **TechAdmirers Dashboard** simulates AI-native learner experiences using interactive data visualizations, AI-generated insights, predictive analytics, and conversational AI features. This platform leverages cutting-edge Nvidia SDKs and AWS GPU infrastructure to deliver low-latency, scalable, AI-enhanced learning experiences.
 
 ## 🚀 Features
 
@@ -13,19 +17,40 @@ A dynamic, AI-powered Learning Management System (LMS) built with React, TypeScr
 
 ## 🛠️ Tech Stack
 
+- **Frontend Framework:** React.js (Component-based architecture)
 - **Frontend**: React 18, TypeScript, Vite
 - **UI Components**: Radix UI, Tailwind CSS, Framer Motion
+- **Styling:** Tailwind CSS (Mobile-first utility classes)
+- **Animations:** AOS.js, LottieFiles, Framer Motion
 - **Charts**: Chart.js, Recharts
+- **Data Visualizations:** Chart.js, Recharts
 - **State Management**: React Query, React Hook Form
 - **Routing**: React Router DOM
-- **Styling**: Tailwind CSS with custom design system
+- **Mock Data:** Faker.js
+- **Icons:** Lucide Icons / Remix Icons
+- **Voice Input & AI Chat Simulation:** Integrated with Nvidia Riva (Planned live integration)
+
+## 📚 Key Features
+
+- AI Learning Path Builder
+- Resume Score Analyzer
+- Smart Quiz Generator
+- Course Recommendation Engine
+- Skill Gap Analyzer
+- Voice Prompt Input (Nvidia Riva)
+- Career Roadmap AI
+- Feedback Generator
+- AI Schedule Optimizer
+- AI Tutor Chat Simulation
+- Achievement Badges with Confetti Animation
+- Advanced Analytics & Data Visualizations
 
 ## 📦 Installation
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd techadmirers-ai-dashboard
+git clone https://github.com/techadmirers/dashboard.git
+cd techadmirers-dashboard
 ```
 
 2. Install dependencies:
@@ -86,6 +111,11 @@ The application supports multiple languages with automatic detection and easy sw
 - Chinese, Japanese, Korean, Arabic, Hindi
 - And many more...
 
+## 🌐 Live URLs
+
+- **Website:** [https://techadmirers.com/](https://techadmirers.com/)
+- **Dashboard App:** [https://app.techadmirers.com/](https://app.techadmirers.com/)
+
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -99,4 +129,4 @@ This project is licensed under the MIT License.
 
 ## 🆘 Support
 
-For support and questions, please contact the TechAdmirers team.
+For support and questions, please contact: **info@techadmirers.com**
