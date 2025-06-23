@@ -49,7 +49,7 @@ The **TechAdmirers Dashboard** simulates AI-native learner experiences using int
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/techadmirers/dashboard.git
+git clone https://github.com/TechAdmirers/Dashbaord.git
 cd techadmirers-dashboard
 ```
 
